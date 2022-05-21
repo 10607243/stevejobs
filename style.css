@@ -1,0 +1,48 @@
+body{
+   background-color: #3983a0;
+}
+
+h1::first-letter{
+    color: black;
+    font-size: 220%;
+}
+
+span:hover{
+    background-color:yellow;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+}
+
+p.parrafo::first-line{
+    color: red;
+}
+
+a:link{
+    color: blue;
+    background-color: white;
+}
+
+a:visited{
+    color: blue;
+    background-color: white;
+}
+
+h4{
+    counter-reset: cuenta-productos;
+}
+
+
+
+.steve-jobs{
+    float: right;
+}
+
+
